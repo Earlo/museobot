@@ -1,0 +1,22 @@
+{
+    "su_1": {
+        "text":"Mikä on sepeteuksen pojan veljen isän nimi?",
+        "options":{
+                "a": "Sepeteus",
+                "b": "Poika",
+                "c": "Veli",
+                "d": "Äh puh en tiedä"
+            },
+        "correct":"a"
+    },
+    "su_2": {
+        "text":"Rahat vai kolmipyörä?",
+        "options":{
+                "a": "Rahat",
+                "b": "Kolmipyörä",
+                "c": "Piip paap",
+                "d": "Kvaak Kvaak"
+            },
+        "correct":"b"
+    }
+}
